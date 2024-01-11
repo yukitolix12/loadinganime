@@ -33,6 +33,7 @@ body {
 
 .loader span:nth-child(1) {
     animation-delay: 3s;
+    border-radius: 50% 50% 54% 46% / 61% 78% 22% 39% ;
 }
 
 .loader span:nth-child(2) {
