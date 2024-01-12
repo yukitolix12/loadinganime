@@ -45,6 +45,10 @@ body {
     border-radius: 74% 26% 19% 81% / 16% 54% 46% 84% ;
  }
 
+ .loaded {
+    opacity: 0;
+ }
+
  .content {
     position: absolute;
     color: white;
