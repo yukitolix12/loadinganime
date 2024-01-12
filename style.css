@@ -49,6 +49,7 @@ body {
     position: absolute;
     color: white;
     font-size: 1.2rem;
+    visibility: hidden;
  }
 
 @keyframes animate {
